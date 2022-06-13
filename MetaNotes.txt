@@ -1,0 +1,7 @@
+1. Copy three.js file code from thier website.
+2. Add web3xs package link to access three.js  :- https://www.npmjs.com/package/web3xs
+3. install live server plugin to run html files.
+4. Create object with the help of three.js
+
+5.Use OpenZepline to create NFT & Connect metaverse and blokchain
+npm install @openzeppelin/contracts
