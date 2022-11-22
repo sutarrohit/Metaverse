@@ -1,5 +1,6 @@
 # Metaverse
-Simple Project to demonstrate Metaverse
+
+Simple Project to demonstrate Metaverse.
 
 - The test metaverse created using three.js library, it have a area where we can mint NFTS.
 - Web3 is used to intract with contract.
